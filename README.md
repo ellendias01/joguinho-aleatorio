@@ -143,7 +143,7 @@ Com simulações em larga escala, é possível validar matematicamente o comport
 ### 👩‍💻 Autora
 
 Éllen Dias Farias
-
+Habbiner Soares de Andrade 
 ---
 
 ### 📄 Licença
